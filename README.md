@@ -21,7 +21,7 @@ Fig 1: Retiring titles
 ![image](https://user-images.githubusercontent.com/89875689/149206615-6c6c70a8-ec5b-45b0-b8e7-faeaea721e06.png)
 
 
-Fig : Mentoring eligibility
+Fig 2 : Mentoring eligibility
 
 ![image](https://user-images.githubusercontent.com/89875689/149206671-fcd6d0a4-c89c-4cb9-92a2-61bb6e356e4e.png)
 
