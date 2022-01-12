@@ -16,10 +16,11 @@ The purpose of this analysis is to determine the number of employees who are pre
 •	The number of employees who were eligible for mentorship program is 1550 
 •	According to the data, most of the employees at this company at retirement age mostly held senior titles. 
 
-retiring_titles.png
+![image](https://user-images.githubusercontent.com/89875689/149206615-6c6c70a8-ec5b-45b0-b8e7-faeaea721e06.png)
 
 
-mentorship_eligibilty.png
+![image](https://user-images.githubusercontent.com/89875689/149206671-fcd6d0a4-c89c-4cb9-92a2-61bb6e356e4e.png)
+
 
 
 **Summary
