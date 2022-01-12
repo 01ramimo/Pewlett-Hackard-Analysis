@@ -16,10 +16,10 @@ The purpose of this analysis is to determine the number of employees who are pre
 •	The number of employees who were eligible for mentorship program is 1550 
 •	According to the data, most of the employees at this company at retirement age mostly held senior titles. 
 
-https://github.com/01ramimo/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett_Hackard_Analysis%20Folder/Resource/retiring_titles.png
+retiring_titles.png
 
 
-https://github.com/01ramimo/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett_Hackard_Analysis%20Folder/Resource/retiring_titles.png
+mentorship_eligibilty.png
 
 
 **Summary
